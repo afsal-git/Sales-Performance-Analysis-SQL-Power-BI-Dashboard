@@ -1,5 +1,5 @@
 # 📊 Sales Performance Analysis – SQL & Power BI Dashboard
-📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes sales performance data to uncover key business insights related to revenue, customers, products, regions, and market segments.
 The analysis was performed using MySQL for data exploration and preparation and Power BI for interactive dashboard visualization.
