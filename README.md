@@ -1,4 +1,4 @@
-📊 Sales Performance Analysis – SQL & Power BI Dashboard
+# 📊 Sales Performance Analysis – SQL & Power BI Dashboard
 📌 Project Overview
 
 This project analyzes sales performance data to uncover key business insights related to revenue, customers, products, regions, and market segments.
@@ -8,7 +8,7 @@ The goal of this project is to demonstrate end-to-end data analyst workflow:
 
 Raw data → SQL analysis → Business insights → Visual storytelling.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Analyze overall sales performance
 
@@ -18,7 +18,7 @@ Understand customer and segment contribution to sales
 
 Build an interactive dashboard for decision-making
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Database: MySQL
 
@@ -36,7 +36,7 @@ Business KPI analysis
 
 Power BI dashboard design
 
-🗂️ Dataset Description
+## 🗂️ Dataset Description
 
 The dataset contains transactional sales data with the following key fields:
 
@@ -50,7 +50,7 @@ Geographic details (Region, State, City)
 
 Sales value
 
-🧹 Data Preparation (SQL)
+## 🧹 Data Preparation (SQL)
 
 Data preparation was done using MySQL, including:
 
@@ -70,7 +70,7 @@ Verified dataset completeness
 
 Performed aggregations for sales analysis
 
-📈 SQL Analysis Performed
+## 📈 SQL Analysis Performed
 
 Total sales calculation
 
@@ -90,13 +90,7 @@ State
 
 Product
 
-Top 10 products by sales
-
-Top customers by revenue
-
-Average order value
-
-📊 Power BI Dashboard
+## 📊 Power BI Dashboard
 
 An interactive Power BI dashboard was built to visualize insights derived from SQL analysis.
 
@@ -122,13 +116,13 @@ Top 10 Products by Sales
 
 Top 3 States by Sales
 
-📁 Files Included
+## 📁 Files Included
 
 Dashboard.pbix
 
 dashboard_screenshot.png
 
-🔍 Key Insights
+## 🔍 Key Insights
 
 Technology is the highest revenue-generating category
 
@@ -140,7 +134,7 @@ California is the top-performing state
 
 A small number of products contribute disproportionately to total revenue
 
-⚠️ Limitations
+## ⚠️ Limitations
 
 Dataset does not include profit or cost information
 
@@ -148,7 +142,7 @@ Time-series trend analysis is limited
 
 Analysis is based only on available sales data
 
-✅ Conclusion
+## ✅ Conclusion
 
 This project demonstrates practical skills in SQL-based data analysis and Power BI dashboard creation, focusing on transforming raw sales data into meaningful business insights.
 The dashboard can be used by stakeholders to quickly understand performance and identify growth opportunities.
