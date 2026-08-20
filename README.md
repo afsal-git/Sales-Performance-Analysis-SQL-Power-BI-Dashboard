@@ -92,7 +92,7 @@ The flat table was normalized into a star schema using Power Query to eliminate 
        │     Region             │
        │     Country            │
        └────────────────────────┘
-```text
+```
 
 ---
 
