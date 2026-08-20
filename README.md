@@ -145,7 +145,7 @@ Sales-Performance-Analysis/
 ├── dataset.csv                 # Raw sales dataset (source data)
 ├── sales_analysis.sql          # SQL scripts for data exploration & analysis
 └── README.md                   # Project documentation
-
+```
 
 ---
 
